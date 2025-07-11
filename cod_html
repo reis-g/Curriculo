@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -94,7 +93,7 @@
         <img src="C:\Users\guilherme\Documents\Pessoal\foto.jpg" alt="" width="100%" height="20%">
         <hr>
         <div class="section-title">CONTATO</div>
-        <psb>Endereço: Rua Planalto 665 - Gravataí</psb><br>
+        <psb>Residência: Gravataí - RS</psb><br>
         <psb>Telefone: (51) 9982122110</psb><br>
         <psb>E-mail: guilhermereis@hotmail.com</psb><br>
         <psb>linkedin.com/in/guilherme-reis-0845b3241</psb>
@@ -193,7 +192,7 @@
             <p class="date">Previsão de Conclusão: 10/2025</p>
 
             <p class="sub-section-title">Engenharia Mecânica – PUCRS</p>
-            <p class="date">Conclusão: 07/2019</p>
+            <p class="date">Conclusão: 02/2019</p>
             <br>
             <hr>
         </div>
