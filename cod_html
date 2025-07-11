@@ -57,6 +57,7 @@
             margin: 5px 0;
             color: black;
             font-size: 1em; line-height: 1.5em;
+            text-align: justify;
         }
         .experience, .education, .skills, .contact {
             margin-bottom: 20px;
@@ -83,6 +84,31 @@
             font-size: 1em; line-height: 1.5em;
 
         }
+
+        nav ul {
+        list-style-type: none; /* Remove os marcadores de lista */
+        padding: 0;
+        margin: 10px 0; /* Espaçamento acima e abaixo da navegação */
+        display: flex; /* Para colocar os itens lado a lado */
+        justify-content: space-around; /* Distribui os itens uniformemente */
+        background-color: #f0f0f0; /* Um fundo leve para a navegação */
+        padding: 5px;
+        border-radius: 5px;
+        }
+
+        nav ul li {
+        margin: 0 10px; /* Espaçamento entre os itens */
+        }
+
+        nav ul li a {
+        color: #007bff; /* Cor azul para os links (visível em fundo claro) */
+        text-decoration: none; /* Remove o sublinhado */
+        font-weight: bold;
+        }
+
+        nav ul li a:hover {
+        text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+        }
     </style>
 </head>
 <body>
@@ -97,7 +123,7 @@
         <psb>Telefone: (51) 9982122110</psb><br>
         <psb>E-mail: guilhermereis@hotmail.com</psb><br>
         <psb>LinkedIn: <a href=https://www.linkedin.com/in/guilhermereis-eng target="_blank">linkedin.com/in/guilhermereis-eng <a/></psb><br>
-        <psb>Currículo Online: <a href=https://guilhermereis.w3spaces.comtarget="_blank">guilhermereis.w3spaces.com</a></psb>
+        <psb>Currículo Online: <a href=https://guilhermereis.w3spaces.com target="_blank">guilhermereis.w3spaces.com</a></psb>
                <hr>
 
         <div class="section-title">HARD SKILLS</div>
@@ -201,20 +227,29 @@
         <div class="education"></div>
             <div class="section-title">CURSOS</div>
                   
-            <p class="sub-section-title">Gestão da Qualidade - Estácio</p>
-            <p class="date">Conclusão: 12/2024 – Carga Horária: 50h</p>
+            <p>
+            <span class="sub-section-title">Gestão da Qualidade - Estácio</span>
+            <span class="date"> | Conclusão: 12/2024 – Carga Horária: 50h</span>
+            </p><br>
 
-            <p class="sub-section-title">IoT Specialist - Digital Innovation One</p>
-            <p class="date">Conclusão: 12/2024 – Carga Horária: 60h</p>
+            <p> 
+            <span class="sub-section-title">IoT Specialist - Digital Innovation One</span>
+            <span class="date"> | Conclusão: 12/2024 – Carga Horária: 60h</span>
+            </p><br>
 
-            <p class="sub-section-title">Machine Learning Specialist - Digital Innovation One</p>
-            <p class="date">Conclusão: 11/2024 – Carga Horária: 92h</p>
+            <p> 
+            <span class="sub-section-title">Machine Learning Specialist - Digital Innovation One</span>
+            <span  class="date"> | Conclusão: 11/2024 – Carga Horária: 92h</span>
+            </p><br>
 
-            <p class="sub-section-title">Eletrônica Básica – SENAI</p>
-            <p class="date">Conclusão: 04/2008 – Carga Horária: 100h</p>
+            <p> 
+            <span class="sub-section-title">Eletrônica Básica – SENAI</span>
+            <span class="date"> | Conclusão: 04/2008 – Carga Horária: 100h</span>
+            </p>
     </div>
 
 </div>
 
+ 
 </body>
 </html>
