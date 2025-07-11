@@ -90,13 +90,14 @@
 <div class="container">
     <!-- Coluna lateral (sidebar) -->
     <div class="sidebar">
-        <img src="C:\Users\guilherme\Documents\Pessoal\foto.jpg" alt="" width="100%" height="20%">
+        <img src="https://raw.githubusercontent.com/reis-g/Curriculo/main/foto.jpg" alt="" width="100%" height="20%">
         <hr>
         <div class="section-title">CONTATO</div>
         <psb>Residência: Gravataí - RS</psb><br>
         <psb>Telefone: (51) 9982122110</psb><br>
         <psb>E-mail: guilhermereis@hotmail.com</psb><br>
-        <psb>linkedin.com/in/guilherme-reis-0845b3241</psb>
+        <psb>LinkedIn: <a href=https://www.linkedin.com/in/guilhermereis-eng target="_blank">linkedin.com/in/guilhermereis-eng <a/></psb><br>
+        <psb>Currículo Online: <a href=https://guilhermereis.w3spaces.comtarget="_blank">guilhermereis.w3spaces.com</a></psb>
                <hr>
 
         <div class="section-title">HARD SKILLS</div>
@@ -114,7 +115,7 @@
        <div class="section-title">SOFT SKILLS</div>
             <li>Comunicação</li>
             <li>Trabalho em equipe </li>
-            <li>Resolução de Problemas</li>
+            <li>Resolução de problemas</li>
             <li>Adaptabilidade</li>
             <li>Liderança</li>
             <li>Pensamento crítico</li>
@@ -150,7 +151,7 @@
             <p class="date">Novembro 2023 – Atual</p>
             <p>Projetos de equipamentos transportadores de granéis sólidos</p>
             <p>Padronização e automatização de projetos no software Autodesk Inventor</p>
-            <p>Pesquisa e Desenvolvimento de Novos produtos (Transportador de correia enclausurado)</p>
+            <p>Pesquisa e desenvolvimento de novos produtos (Transportador de correia enclausurado)</p>
             <br>
         
             <p class="sub-section-title">Projetista – Telemont S/A</p>
@@ -169,7 +170,7 @@
             <p class="sub-section-title">Projetista Mecânico – Belsys Engenharia</p>
             <p class="date">Maio 2018 – Agosto 2020</p>
             <p>Projetos mecânicos de adequação de máquinas à norma NR12.</p>
-            <p>Elaboração de projetos em Software Inventor e Autocad, especificação de orçamentos</p>
+            <p>Elaboração de projetos em software SolidWorks e Autocad, especificação de orçamentos</p>
             <br>
 
             <p class="sub-section-title">Administrativo financeiro – Portocel Saúde</p>
