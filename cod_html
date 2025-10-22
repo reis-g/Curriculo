@@ -166,7 +166,7 @@
 
         <div class="summary">
             <div class="section-title">RESUMO</div>
-            <p>Engenheiro Mecânico por formação e atualmente cursando Análise de Sistemas. Com 7 anos de experiência como projetista em diversas áreas da engenharia, desenvolvi uma visão abrangente e estratégica sobre métodos e processos de projetos. Apaixonado por tecnologia e inovação, mantenho um compromisso constante com o aprendizado e a aquisição de novas habilidades, buscando sempre me atualizar com as tendências do mercado.</p>
+            <p>Engenheiro Mecânico e Analista de Sistemas por formação, atualmente cursando MBA em Gestão de Projetos e Metodologias Ágeis. Com mais de sete anos de experiência como projetista em diversas áreas da engenharia, desenvolvi uma visão abrangente e estratégica sobre métodos e processos de projetos. Apaixonado por tecnologia e inovação, mantenho um compromisso constante com o aprendizado e a aquisição de novas habilidades, buscando sempre me atualizar com as tendências do mercado.</p>
             <br>
             <hr>
         </div>
@@ -215,6 +215,9 @@
 
         <div class="education">
             <div class="section-title">FORMAÇÃO ACADÊMICA</div>
+	    <p class="sub-section-title">MBA - Gestão de Projetos e Metodologias Ágeis – PUCRS</p>
+            <p class="date">Previsão de Conclusão: 10/2026</p>
+
             <p class="sub-section-title">Análise de Sistemas – Faculdade Estácio de Sá</p>
             <p class="date">Conclusão: 10/2025</p>
 
@@ -226,15 +229,15 @@
 
         <div class="education"></div>
             <div class="section-title">CURSOS</div>
-                  
-            <p>
-            <span class="sub-section-title">Gestão da Qualidade - Estácio</span>
-            <span class="date"> | Conclusão: 12/2024 – Carga Horária: 50h</span>
-            </p><br>
-
+             
             <p> 
             <span class="sub-section-title">Indústria 4.0 - PUCRS</span>
             <span class="date"> | Conclusão: 10/2025 – Carga Horária: 10h</span>
+            </p><br>
+     
+            <p>
+            <span class="sub-section-title">Gestão da Qualidade - Estácio</span>
+            <span class="date"> | Conclusão: 12/2024 – Carga Horária: 50h</span>
             </p><br>
 
             <p> 
@@ -242,10 +245,6 @@
             <span  class="date"> | Conclusão: 11/2024 – Carga Horária: 92h</span>
             </p><br>
 
-            <p> 
-            <span class="sub-section-title">Eletrônica Básica – SENAI</span>
-            <span class="date"> | Conclusão: 04/2008 – Carga Horária: 100h</span>
-            </p>
     </div>
 
 </div>
